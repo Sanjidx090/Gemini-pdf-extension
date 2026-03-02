@@ -1,3 +1,12 @@
+# I am happy to announce that I found an extention which can save gemini chats now and i need not to build this anymore....This project went dumb but the extention is great!
+
+Here,  https://chromewebstore.google.com/detail/savechat-for-gemini-expor/blndbnmpkgfoopgmcejnhdnepfejgipe
+<img width="862" height="174" alt="image" src="https://github.com/user-attachments/assets/be1969f9-388e-47eb-87eb-0742b2179437" />
+
+
+
+
+
 # 📄 Gemini Chat PDF Downloader (Paused)
 
 This Chrome extension allows users to **download their Gemini chat conversations as PDF files**. The project is currently **paused** due to strict **Content Security Policy (CSP)** restrictions enforced by `gemini.google.com`, which block client-side PDF generation using popular JavaScript libraries.
